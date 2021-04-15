@@ -29,10 +29,10 @@
 EIoTCloudRestApi eiotcloud;
 
 // change those lines
-#define AP_USERNAME "Tomato96"
-#define AP_PASSWORD "Mango!321"
-#define INSTANCE_ID "604da2cba744725e907e0423"
-#define TOKEN "31GGbGe2dZ5UrDjAywpcEZo6cyKVAGfSKUQRJmh0"
+#define AP_USERNAME "<SSID>"
+#define AP_PASSWORD "<SSID Password>"
+#define INSTANCE_ID "<EasyIot INSTANCE_ID>"
+#define TOKEN "<EasyIot TOKEN>"
 
 #define CONFIG_START 0
 #define CONFIG_VERSION "v01"
